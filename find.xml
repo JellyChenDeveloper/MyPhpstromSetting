@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
+    <option name="defaultScopeName" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
+    <option name="SEARCH_SCOPE" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.css</mask>
+    </recentFileMasks>
+  </component>
+</application>

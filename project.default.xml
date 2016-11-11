@@ -1,0 +1,143 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="CommaExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlDeprecatedTag" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="myValues">
+              <value>
+                <list size="5">
+                  <item index="0" class="java.lang.String" itemvalue="userid" />
+                  <item index="1" class="java.lang.String" itemvalue="isalert" />
+                  <item index="2" class="java.lang.String" itemvalue="height" />
+                  <item index="3" class="java.lang.String" itemvalue="_src" />
+                  <item index="4" class="java.lang.String" itemvalue="_src2" />
+                </list>
+              </value>
+            </option>
+            <option name="myCustomValuesEnabled" value="true" />
+          </inspection_tool>
+          <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="myValues">
+              <value>
+                <list size="7">
+                  <item index="0" class="java.lang.String" itemvalue="nobr" />
+                  <item index="1" class="java.lang.String" itemvalue="noembed" />
+                  <item index="2" class="java.lang.String" itemvalue="comment" />
+                  <item index="3" class="java.lang.String" itemvalue="noscript" />
+                  <item index="4" class="java.lang.String" itemvalue="embed" />
+                  <item index="5" class="java.lang.String" itemvalue="script" />
+                  <item index="6" class="java.lang.String" itemvalue="col" />
+                </list>
+              </value>
+            </option>
+            <option name="myCustomValuesEnabled" value="true" />
+          </inspection_tool>
+          <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSDuplicatedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSJQueryEfficiency" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSUndeclaredVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSUnresolvedLibraryURL" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSUnusedAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PhpParamsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PhpWrongStringConcatenationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="myAdditionalRequiredHtmlAttributes" value="src" />
+          </inspection_tool>
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+            <option name="processCode" value="true" />
+            <option name="processLiterals" value="true" />
+            <option name="processComments" value="true" />
+          </inspection_tool>
+          <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="UnreachableCodeJS" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+        <include_path>
+          <path value="D:\Code\swoole-ide-helper" />
+        </include_path>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="Administrator" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>File Watchers</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <OptionsSetting value="true" id="添加" />
+        <OptionsSetting value="true" id="移除" />
+        <OptionsSetting value="true" id="签出" />
+        <OptionsSetting value="true" id="更新" />
+        <OptionsSetting value="true" id="状态" />
+        <OptionsSetting value="true" id="编辑" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="D:/Code/swoole-ide-helper" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.5" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

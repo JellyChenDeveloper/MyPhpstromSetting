@@ -1,0 +1,7 @@
+<templateSet group="Markdown">
+  <template name=".code" value="``" description="single line code symbol" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
