@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="41c114cf-d1e0-4614-9699-028b49e74285" name="yiqichuban" url="http://chubandev.meishubao.com">
+        <fileTransfer host="175.25.178.174" port="22" rootFolder="/data/yiqichuban" accessType="SFTP" password="dfd2dfdedf84dfcbdfc9df92dfe5dfe5df92" username="chenguodong">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
