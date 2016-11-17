@@ -4,4 +4,17 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name=".task" value="- [$STATUS$] $END$" description="Task Item - [ ]" toReformat="false" toShortenFQNames="false">
+    <variable name="STATUS" expression="" defaultValue=" " alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name=".toc" value="[TOC]: # $END$" description="Table of Contents [TOC]: #" toReformat="false" toShortenFQNames="false">
+    <context />
+  </template>
+  <template name=".init" value="# $FILENAME$&#10;&#10;&#10;在这个页面中：&#10;&#10;* [$END$](#)&#10;&#10;&#10;## &lt;span id=''&gt;&lt;/span&gt;&#10;&#10;&#10;&#10;&#10;# 另请参阅：&#10;&#10;规程：&#10;&#10;* [](/)&#10;&#10;参考：&#10;&#10;* [](/)&#10;&#10;教程和例子：&#10;&#10;* [](/)" description="init file content" toReformat="false" toShortenFQNames="true">
+    <variable name="FILENAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
