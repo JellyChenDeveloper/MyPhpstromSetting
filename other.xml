@@ -78,7 +78,7 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="D:/Program Files/nodejs/node.exe" version="5.1.1" last-modified="1449152648000" />
+    <node-interpreter path="D:/Program Files/nodejs/node.exe" version="6.9.1" last-modified="1476885908000" />
   </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
