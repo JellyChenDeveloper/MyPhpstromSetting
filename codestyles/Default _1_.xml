@@ -18,7 +18,6 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
