@@ -2,18 +2,21 @@
   <component name="FindSettings">
     <option name="customScope" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
     <option name="defaultScopeName" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.css</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
