@@ -22,10 +22,10 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="a3f52341-017a-4036-a3a1-f2797e00dc1f" name="hspay" url="http://10.168.48.66">
-        <fileTransfer host="10.168.48.66" port="26543" rootFolder="/data/web" accessType="SFTP" password="dfd2dfdedf84dfcbdfc9df92dfe5dfe5df92" username="chenguodong">
+      <webServer id="a3f52341-017a-4036-a3a1-f2797e00dc1f" name="mobile_test" url="http://web.meishubaby.com">
+        <fileTransfer host="175.25.178.174" port="22" rootFolder="/data/web/mobile" accessType="SFTP" password="dfd2dfdedf84dfcbdfc9df92dfe5dfe5df92" username="chenguodong">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions controlEncoding="UTF8" dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
