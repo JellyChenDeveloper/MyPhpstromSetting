@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
     <option name="defaultScopeName" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
-    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
     <recentFileMasks>
       <mask>*.properties</mask>
