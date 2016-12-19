@@ -3,8 +3,13 @@
     <option name="customScope" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
     <option name="defaultScopeName" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="文件 &quot;D:\Code\crm\App\Home\Controller\PublicController.class.php&quot;" />
+    <option name="FILE_MASK" value="*.php,*.inc" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +21,7 @@
       <mask>*.php</mask>
       <mask>*.css</mask>
       <mask>*.js</mask>
+      <mask>*.php,*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
