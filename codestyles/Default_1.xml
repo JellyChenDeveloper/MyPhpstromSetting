@@ -1,0 +1,28 @@
+<code_scheme name="Default_1" version="173">
+  <option name="RIGHT_MARGIN" value="800" />
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
+    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+  </JSCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>

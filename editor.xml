@@ -1,8 +1,11 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Consolas" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
-  <component name="TodoConfiguration">
-    <filter name="todo" />
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
